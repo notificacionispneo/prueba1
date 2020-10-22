@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="WEII Discovery Kids">
+    <display-name lang="es">WEII Discovery Kids</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="WEII Disney Channel">
+    <display-name lang="es">WEII Disney Channel</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="WEII Disney XD">
+    <display-name lang="es">WEII Disney XD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201022002500 -0500" stop="20201022005000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
+  <programme start="20201022005000 -0500" stop="20201022011500 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Hi-5</title>
+  </programme>
+  <programme start="20201022011500 -0500" stop="20201022014000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201022014000 -0500" stop="20201022020400 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20201022020400 -0500" stop="20201022022800 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201022022800 -0500" stop="20201022025200 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20201022025200 -0500" stop="20201022031400 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201022031400 -0500" stop="20201022033800 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
+  <programme start="20201022033800 -0500" stop="20201022040200 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Hi-5</title>
+  </programme>
+  <programme start="20201022040200 -0500" stop="20201022042600 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201022042600 -0500" stop="20201022045000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20201022045000 -0500" stop="20201022051200 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Zak Storm</title>
+  </programme>
+  <programme start="20201022051200 -0500" stop="20201022053600 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Zak Storm</title>
+  </programme>
+  <programme start="20201022053600 -0500" stop="20201022060000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Miss Moon</title>
+  </programme>
+  <programme start="20201022060000 -0500" stop="20201022070200 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20201022070200 -0500" stop="20201022072900 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022072900 -0500" stop="20201022075200 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022075200 -0500" stop="20201022082400 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Esme y Roy</title>
+  </programme>
+  <programme start="20201022082400 -0500" stop="20201022085200 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20201022085200 -0500" stop="20201022092000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022092000 -0500" stop="20201022094700 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022094700 -0500" stop="20201022101000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022101000 -0500" stop="20201022103700 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201022103700 -0500" stop="20201022110300 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Angry Birds</title>
+  </programme>
+  <programme start="20201022110300 -0500" stop="20201022113000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Angry Birds</title>
+  </programme>
+  <programme start="20201022113000 -0500" stop="20201022115600 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Angry Birds</title>
+  </programme>
+  <programme start="20201022115600 -0500" stop="20201022121800 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Angry Birds</title>
+  </programme>
+  <programme start="20201022121800 -0500" stop="20201022124400 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Angry Birds</title>
+  </programme>
+  <programme start="20201022124400 -0500" stop="20201022134000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022134000 -0500" stop="20201022140600 -0500" channel="WEII Discovery Kids">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20201022140600 -0500" stop="20201022142200 -0500" channel="WEII Discovery Kids">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20201022142200 -0500" stop="20201022144400 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201022144400 -0500" stop="20201022151000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201022151000 -0500" stop="20201022153600 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201022153600 -0500" stop="20201022160100 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022160100 -0500" stop="20201022162800 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022162800 -0500" stop="20201022165500 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022165500 -0500" stop="20201022172800 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022172800 -0500" stop="20201022174300 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20201022174300 -0500" stop="20201022181000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20201022181000 -0500" stop="20201022183600 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201022183600 -0500" stop="20201022191300 -0500" channel="WEII Discovery Kids">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20201022191300 -0500" stop="20201022201300 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Cazadores de monstruos</title>
+  </programme>
+  <programme start="20201022201300 -0500" stop="20201022204000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022204000 -0500" stop="20201022213900 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20201022213900 -0500" stop="20201022220600 -0500" channel="WEII Discovery Kids">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20201022220600 -0500" stop="20201022230400 -0500" channel="WEII Discovery Kids">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20201022230400 -0500" stop="20201022233400 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201022233400 -0500" stop="20201023000000 -0500" channel="WEII Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201022001000 -0500" stop="20201022003400 -0500" channel="WEII Disney Channel">
+    <title lang="es">¡Buena suerte, Charlie</title>
+  </programme>
+  <programme start="20201022003400 -0500" stop="20201022005600 -0500" channel="WEII Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022005600 -0500" stop="20201022011900 -0500" channel="WEII Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201022011900 -0500" stop="20201022014100 -0500" channel="WEII Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201022014100 -0500" stop="20201022020400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201022020400 -0500" stop="20201022024800 -0500" channel="WEII Disney Channel">
+    <title lang="es">Soy Luna</title>
+  </programme>
+  <programme start="20201022024800 -0500" stop="20201022031200 -0500" channel="WEII Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201022031200 -0500" stop="20201022033400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201022033400 -0500" stop="20201022035800 -0500" channel="WEII Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201022035800 -0500" stop="20201022042000 -0500" channel="WEII Disney Channel">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022042000 -0500" stop="20201022044100 -0500" channel="WEII Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201022044100 -0500" stop="20201022050300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022050300 -0500" stop="20201022052600 -0500" channel="WEII Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201022052600 -0500" stop="20201022055900 -0500" channel="WEII Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201022055900 -0500" stop="20201022062900 -0500" channel="WEII Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201022062900 -0500" stop="20201022070700 -0500" channel="WEII Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022070700 -0500" stop="20201022074100 -0500" channel="WEII Disney Channel">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20201022074100 -0500" stop="20201022080600 -0500" channel="WEII Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201022080600 -0500" stop="20201022082900 -0500" channel="WEII Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201022082900 -0500" stop="20201022090600 -0500" channel="WEII Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20201022090600 -0500" stop="20201022092800 -0500" channel="WEII Disney Channel">
+    <title lang="es">Las aventuras enredadas..</title>
+  </programme>
+  <programme start="20201022092800 -0500" stop="20201022101100 -0500" channel="WEII Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201022101100 -0500" stop="20201022102700 -0500" channel="WEII Disney Channel">
+    <title lang="es">¡Vete ya, unicornio</title>
+  </programme>
+  <programme start="20201022102700 -0500" stop="20201022111100 -0500" channel="WEII Disney Channel">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20201022111100 -0500" stop="20201022112700 -0500" channel="WEII Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201022112700 -0500" stop="20201022115900 -0500" channel="WEII Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201022115900 -0500" stop="20201022123300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201022123300 -0500" stop="20201022130300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201022130300 -0500" stop="20201022133400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
+  </programme>
+  <programme start="20201022133400 -0500" stop="20201022140400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Es tan Raven</title>
+  </programme>
+  <programme start="20201022140400 -0500" stop="20201022143300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201022143300 -0500" stop="20201022150500 -0500" channel="WEII Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201022150500 -0500" stop="20201022154100 -0500" channel="WEII Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201022154100 -0500" stop="20201022155600 -0500" channel="WEII Disney Channel">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022155600 -0500" stop="20201022163200 -0500" channel="WEII Disney Channel">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20201022163200 -0500" stop="20201022170300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201022170300 -0500" stop="20201022175600 -0500" channel="WEII Disney Channel">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20201022175600 -0500" stop="20201022183400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201022183400 -0500" stop="20201022190300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201022190300 -0500" stop="20201022193700 -0500" channel="WEII Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201022193700 -0500" stop="20201022200300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201022200300 -0500" stop="20201022203500 -0500" channel="WEII Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201022203500 -0500" stop="20201022210400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201022210400 -0500" stop="20201022213300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022213300 -0500" stop="20201022220300 -0500" channel="WEII Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201022220300 -0500" stop="20201022223400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201022223400 -0500" stop="20201022230400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201022230400 -0500" stop="20201022233700 -0500" channel="WEII Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201022233700 -0500" stop="20201023012400 -0500" channel="WEII Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201022003600 -0500" stop="20201022005700 -0500" channel="WEII Disney XD">
+    <title lang="es">O11CE</title>
+  </programme>
+  <programme start="20201022005700 -0500" stop="20201022012000 -0500" channel="WEII Disney XD">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022012000 -0500" stop="20201022014100 -0500" channel="WEII Disney XD">
+    <title lang="es">O11CE</title>
+  </programme>
+  <programme start="20201022014100 -0500" stop="20201022020400 -0500" channel="WEII Disney XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201022020400 -0500" stop="20201022022600 -0500" channel="WEII Disney XD">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022022600 -0500" stop="20201022024900 -0500" channel="WEII Disney XD">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201022024900 -0500" stop="20201022031800 -0500" channel="WEII Disney XD">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022031800 -0500" stop="20201022033900 -0500" channel="WEII Disney XD">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201022033900 -0500" stop="20201022040200 -0500" channel="WEII Disney XD">
+    <title lang="es">¡Bum, Pum, Kapow</title>
+  </programme>
+  <programme start="20201022040200 -0500" stop="20201022042400 -0500" channel="WEII Disney XD">
+    <title lang="es">Yo-Kai Watch</title>
+  </programme>
+  <programme start="20201022042400 -0500" stop="20201022044700 -0500" channel="WEII Disney XD">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022044700 -0500" stop="20201022050900 -0500" channel="WEII Disney XD">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201022050900 -0500" stop="20201022053200 -0500" channel="WEII Disney XD">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201022053200 -0500" stop="20201022060000 -0500" channel="WEII Disney XD">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022060000 -0500" stop="20201022062300 -0500" channel="WEII Disney XD">
+    <title lang="es">Bajoterra</title>
+  </programme>
+  <programme start="20201022062300 -0500" stop="20201022064100 -0500" channel="WEII Disney XD">
+    <title lang="es">Mickey Mouse</title>
+  </programme>
+  <programme start="20201022064100 -0500" stop="20201022065600 -0500" channel="WEII Disney XD">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201022065600 -0500" stop="20201022071100 -0500" channel="WEII Disney XD">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022071100 -0500" stop="20201022073000 -0500" channel="WEII Disney XD">
+    <title lang="es">Cupcake &amp; Dino Servicios</title>
+  </programme>
+  <programme start="20201022073000 -0500" stop="20201022075400 -0500" channel="WEII Disney XD">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20201022075400 -0500" stop="20201022082900 -0500" channel="WEII Disney XD">
+    <title lang="es">Las aventuras de Timón y Pumb</title>
+  </programme>
+  <programme start="20201022082900 -0500" stop="20201022092600 -0500" channel="WEII Disney XD">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20201022092600 -0500" stop="20201022095600 -0500" channel="WEII Disney XD">
+    <title lang="es">Pickle y Maní</title>
+  </programme>
+  <programme start="20201022095600 -0500" stop="20201022102300 -0500" channel="WEII Disney XD">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022102300 -0500" stop="20201022111100 -0500" channel="WEII Disney XD">
+    <title lang="es">Marvel Spider-Man</title>
+  </programme>
+  <programme start="20201022111100 -0500" stop="20201022112600 -0500" channel="WEII Disney XD">
+    <title lang="es">Pollos Espaciales del Espacio</title>
+  </programme>
+  <programme start="20201022112600 -0500" stop="20201022114100 -0500" channel="WEII Disney XD">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022114100 -0500" stop="20201022121000 -0500" channel="WEII Disney XD">
+    <title lang="es">Galaxia Wander</title>
+  </programme>
+  <programme start="20201022121000 -0500" stop="20201022122700 -0500" channel="WEII Disney XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20201022122700 -0500" stop="20201022130800 -0500" channel="WEII Disney XD">
+    <title lang="es">Trollhunters De Guillermo Del</title>
+  </programme>
+  <programme start="20201022130800 -0500" stop="20201022132500 -0500" channel="WEII Disney XD">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20201022132500 -0500" stop="20201022135400 -0500" channel="WEII Disney XD">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20201022135400 -0500" stop="20201022142500 -0500" channel="WEII Disney XD">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022142500 -0500" stop="20201022145600 -0500" channel="WEII Disney XD">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022145600 -0500" stop="20201022152500 -0500" channel="WEII Disney XD">
+    <title lang="es">La ley de Milo Murphy</title>
+  </programme>
+  <programme start="20201022152500 -0500" stop="20201022155400 -0500" channel="WEII Disney XD">
+    <title lang="es">La ley de Milo Murphy</title>
+  </programme>
+  <programme start="20201022155400 -0500" stop="20201022162600 -0500" channel="WEII Disney XD">
+    <title lang="es">Galaxia Wander</title>
+  </programme>
+  <programme start="20201022162600 -0500" stop="20201022172600 -0500" channel="WEII Disney XD">
+    <title lang="es">Cupcake &amp; Dino Servicios</title>
+  </programme>
+  <programme start="20201022172600 -0500" stop="20201022175500 -0500" channel="WEII Disney XD">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022175500 -0500" stop="20201022184900 -0500" channel="WEII Disney XD">
+    <title lang="es">Ninjago Maestros del Spinjitz</title>
+  </programme>
+  <programme start="20201022184900 -0500" stop="20201022190700 -0500" channel="WEII Disney XD">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022190700 -0500" stop="20201022192500 -0500" channel="WEII Disney XD">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20201022192500 -0500" stop="20201022194100 -0500" channel="WEII Disney XD">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20201022194100 -0500" stop="20201022195600 -0500" channel="WEII Disney XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20201022195600 -0500" stop="20201022202600 -0500" channel="WEII Disney XD">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20201022202600 -0500" stop="20201022204100 -0500" channel="WEII Disney XD">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201022204100 -0500" stop="20201022205800 -0500" channel="WEII Disney XD">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201022205800 -0500" stop="20201022212500 -0500" channel="WEII Disney XD">
+    <title lang="es">Campamento Lakebottom</title>
+  </programme>
+  <programme start="20201022212500 -0500" stop="20201022215400 -0500" channel="WEII Disney XD">
+    <title lang="es">Campamento Lakebottom</title>
+  </programme>
+  <programme start="20201022215400 -0500" stop="20201022222400 -0500" channel="WEII Disney XD">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201022222400 -0500" stop="20201022225400 -0500" channel="WEII Disney XD">
+    <title lang="es">Trollhunters De Guillermo Del</title>
+  </programme>
+  <programme start="20201022225400 -0500" stop="20201022231200 -0500" channel="WEII Disney XD">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20201022231200 -0500" stop="20201022234100 -0500" channel="WEII Disney XD">
+    <title lang="es">Gusano del Futuro</title>
+  </programme>
+  <programme start="20201022234100 -0500" stop="20201023003100 -0500" channel="WEII Disney XD">
+    <title lang="es">Randy Cunningham Ninja Total</title>
+  </programme>
+</tv>
